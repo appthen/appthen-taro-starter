@@ -2,7 +2,7 @@
         "miniprogramRoot": "dist/",
         "projectname": "AppThen Miniapp",
         "description": "taro mini project",
-        "appid": "wx6ff710afda480cd6",
+        "appid": "wxc15a85045efb003b",
         "setting": {
                 "urlCheck": false,
                 "es6": false,
@@ -38,7 +38,6 @@
                 "condition": false
         },
         "compileType": "miniprogram",
-        "libVersion": "2.22.0",
         "srcMiniprogramRoot": "dist/",
         "editorSetting": {
                 "tabIndent": "insertSpaces",
