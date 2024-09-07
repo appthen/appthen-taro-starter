@@ -14,7 +14,6 @@ export function requestHandle(config?: Record<string, unknown>) {
           _options = await __beforeRequest(options)
         }
       }
-      
 
       const { contentType, params, method, headers = {}, timeout } = _options;
       let uri = _options.uri;
